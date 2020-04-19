@@ -1,7 +1,7 @@
 @font-face {
-    font-family: 'pixelated_verdana_bold_12pt';
+    font-family: 'pixelated verdana bold';
     src: url('https://github.com/digivee/Font-hostings/raw/master/pixelated_verdana_bold_12pt.woff2') format('woff2'),
-        url('https://github.com/digivee/Font-hostings/raw/master/pixelated_verdana_bold_12pt.woff') format('woff');
+         url('https://github.com/digivee/Font-hostings/raw/master/pixelated_verdana_bold_12pt.woff') format('woff');
     font-weight: bold;
     font-style: normal;
 }
